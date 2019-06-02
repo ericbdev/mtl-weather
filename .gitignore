@@ -1,0 +1,23 @@
+npm-debug.log
+.idea/
+.cache/
+dist/
+node_modules/
+tmp/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.nvmrc
+
+# Yarn
+!.yarn.lock
+yarn-error.log
+
+# Jest test coverage
+reports/
+coverage/
+
+# Template Components
+*scratch/
