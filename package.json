@@ -59,7 +59,7 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@rebass/grid": "^6.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cross-fetch": "^3.0.3",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.0",
